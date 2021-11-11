@@ -1,0 +1,40 @@
+:root {
+  --bg-black: #363740;
+  --bg-silver: #3e4049;
+  --text-gray: #a4a6b3;
+  --text-gray-medium: #9fa2b4;
+  --text-gray-soft: #c5c7cd;
+  --text-black: #252733;
+  --bg-gray: #f7f8fc;
+  --text-white: #dde2ff;
+  --red: #FF0000;
+  --blue: #3751ff;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Mulish", sans-serif;
+}
+
+.content {
+  grid-column: 2 / 3;
+  grid-row: 2/ 3;
+  padding-left: 27px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+@media (max-width: 576px) {
+  .content {
+    grid-column: 1 / 2;
+  }
+}

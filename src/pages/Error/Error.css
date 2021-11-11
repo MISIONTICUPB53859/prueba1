@@ -1,0 +1,60 @@
+.error {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-color: #5067fc;;
+}
+
+.error h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  color: var(--bg-silver);
+}
+
+.error p {
+  margin-top: 70px;
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--bg-silver);
+}
+
+.error a {
+  margin-top: 30px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--bg-silver);
+}
+
+@media (max-width: 992px) {
+  .error {
+    padding: 0 10%;
+  }
+ 
+  .error h1 {
+    font-size: 6rem;
+  }
+
+  .error p {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .error {
+    padding: 5%;
+  }
+
+  .error h1 {
+    font-size: 4rem;
+  }
+
+  .error p {
+    margin-top: 0;
+    font-size: 2.5rem;
+  }
+}

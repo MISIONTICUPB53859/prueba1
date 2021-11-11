@@ -1,0 +1,153 @@
+:root {
+  --border-tab-col-color: #a9aab1;
+}
+
+.user-table-container {
+  max-height: 83vh;
+  width: 98%;
+  border: 1px solid var(--border-tab-col-color);
+  border-radius: 8px;
+  font-size: 1.8rem;
+  overflow-y: scroll;
+}
+
+.user-add-search-container {
+  display: flex;
+  margin-top: 0;
+  justify-content: flex-end;
+  padding: 3rem 5rem 4rem 4rem;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0rem;
+  background-color: #ffffff;
+}
+
+.user-search-i {
+  width: 28%;
+  border: 1px solid var(--border-tab-col-color);
+  border-radius: 5px;
+  background-color: #f3f4f4;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.user-button-p {
+  font-family: 'Mulish', sans-serif;
+  font-weight: 300;
+  background-color: #3751ff;
+  color: #ffffff;
+  border: 0;
+  box-shadow: 0px 4px 12px rgba(55, 81, 255, 0.24);
+  border-radius: 8px;
+  padding: 0.7rem 1.3rem;
+  margin-right: 0.5rem;
+}
+
+.user-button-p:hover {
+  background-color: #363740;
+}
+
+.user-table-p {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table-header {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 8rem;
+  background-color: #ffffff;
+}
+
+.user-table th {
+  color: var(--border-tab-col-color);
+  padding: 1rem 0.5rem 2rem 0.5rem;
+}
+
+.user-table-row {
+  border-top: 1px solid var(--border-tab-col-color);
+}
+
+.user-table td {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-weight: 600;
+}
+
+.user-rol-admin {
+  background-color: #29cc97;
+  color: #fff;
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.user-rol-ninguno {
+  background-color: red;
+  color: #fff;
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.user-rol-vendedor {
+  background-color: #fec400;
+  color: #fff;
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.user-error-toast {
+  background: red !important;
+  font-size: 1.2rem !important;
+  border-radius: 5px !important;
+  font-family: 'Mulish', sans-serif !important;
+  color: #f3f4f4 !important;
+}
+
+.user-success-toast {
+  background: #3751ff !important;
+  font-size: 1.2rem !important;
+  border-radius: 5px !important;
+  font-family: 'Mulish', sans-serif !important;
+  color: #f3f4f4 !important;
+}
+
+.user-progress-bar {
+  background: #f3f4f4 !important;
+}
+
+@media (max-width: 992px) {
+  .user-table-container {
+    width: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    position: relative;
+    right: 3rem;
+    font-size: 1.4rem;
+  }
+
+  .user-button-p {
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .table-container {
+    max-height: 100%;
+    width: 100%;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    margin-left: 1.5rem;
+    margin-right: 1rem;
+  }
+}

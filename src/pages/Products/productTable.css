@@ -1,0 +1,136 @@
+:root {
+  --border-tab-col-color: #a9aab1;
+}
+
+.table-container {
+  max-height: 83vh;
+  width: 98%;
+  border: 1px solid var(--border-tab-col-color);
+  border-radius: 8px;
+  font-size: 1.6rem;
+  overflow-y: scroll;
+}
+
+.add-search-container {
+  display: flex;
+  margin-top: 0;
+  justify-content: space-between;
+  padding: 3rem 5rem 5rem 4rem;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0rem;
+  background-color: #ffffff;
+}
+
+.search-i {
+  width: 28%;
+  border: 1px solid var(--border-tab-col-color);
+  border-radius: 5px;
+  background-color: #f3f4f4;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.button-p {
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  background-color: #3751ff;
+  color: #ffffff;
+  border: 0;
+  box-shadow: 0px 4px 12px rgba(55, 81, 255, 0.24);
+  border-radius: 8px;
+  padding: 0.7rem 1.3rem;
+  margin-right: 0.5rem;
+}
+
+.button-p:hover {
+  background-color: #363740;
+}
+
+.table-p {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-header {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 9rem;
+  background-color: #ffffff;
+}
+
+th {
+  color: var(--border-tab-col-color);
+  padding: 1rem 0.5rem 2rem 0.5rem;
+}
+
+.table-row {
+  border-top: 1px solid var(--border-tab-col-color);
+}
+
+td {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-weight: 600;
+}
+
+.table-row:hover {
+  background-color: #f3f4f4;
+}
+
+.success-toast {
+  background: #3751ff !important;
+  font-size: 1.4rem !important;
+  border-radius: 5px !important; 
+  font-family: "Mulish", sans-serif !important;
+  color: #f3f4f4 !important;
+}
+
+.progress-bar {
+  background:#f3f4f4 !important;
+}
+
+
+@media (max-width: 992px) {
+  .table-container {
+    width: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    position: relative;
+    right: 3rem;
+    font-size: 1.2rem;
+  }
+
+  .button-p {
+    padding: 0.5rem 0.6rem;
+    margin-right: 0.5rem;
+  }
+
+  .search-i {
+    width: 38%;
+  }
+}
+
+@media (max-width: 576px) {
+  .table-container {
+    /* max-height: 100%; */
+    width: 100%;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    margin-left: 1.5rem;
+    margin-right: 1rem;
+  }
+  .table-header {
+    padding-top: 3rem;
+  }
+  .button-p {
+    padding: 0.3rem 0.4rem;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+  }
+  .search-i {
+    width: 42%;
+    margin-left: 2rem;
+  }
+}

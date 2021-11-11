@@ -1,0 +1,58 @@
+.home {
+  max-height: 83vh;
+  display: grid;
+  text-align: center;
+  justify-items: center;
+  padding: 0 20%;
+  overflow: hidden;
+}
+
+.home--logo {
+  width: 200px;
+}
+
+.home h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  color: var(--bg-silver);
+}
+
+.home p {
+  margin-top: 70px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--text-gray);
+}
+
+@media (max-width: 992px) {
+  .home {
+    padding: 0 10%;
+  }
+
+  .home--logo {
+    width: 150px;
+  }
+
+  .home h1 {
+    font-size: 6rem;
+  }
+
+  .home p {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .home {
+    padding: 5%;
+  }
+
+  .home h1 {
+    font-size: 4rem;
+  }
+
+  .home p {
+    margin-top: 0;
+    font-size: 2.5rem;
+  }
+}
