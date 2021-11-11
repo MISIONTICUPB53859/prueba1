@@ -85,6 +85,7 @@ const Sales = () => {
                         </div>
                         <table className="sales-table"> 
                             <thead>
+                                
                                 <tr className="sales-titles">
                                     <th>ID Venta</th>
                                     <th>Total Venta</th>
