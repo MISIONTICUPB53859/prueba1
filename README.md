@@ -1,4 +1,4 @@
-# Aplicación Software de Ventas Empresa de Manufactura 🏬📈
+# JUAN DIEGO LOPEZ Aplicación Software de Ventas Empresa de Manufactura 🏬📈
 
 Análisis, diseño y construcción de una aplicación de software, que permite controlar las ventas físicas y virtuales de una empresa de manufactura y a las cuales se les realiza el correspondiente seguimiento.
 
