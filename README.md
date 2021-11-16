@@ -1,25 +1,7 @@
+Branch William Guerrero 👨‍
 # Aplicación Software de Ventas Empresa de Manufactura 🏬📈
 
-Análisis, diseño y construcción de una aplicación de software, que permite controlar las ventas físicas y virtuales de una empresa de manufactura y a las cuales se les realiza el correspondiente seguimiento.
 
-## Cómo se desarrolla el proyecto? 🚀
-
-El desarrollo de la aplicación web tiene como base un proyecto dividido en cinco (5) sprints y es construido en equipo de cinco (5) integrantes.
-
-### Metodología empleada en el proyecto 📋
-
-El desarrollo del proyecto se aborda mediante metodologías ágiles, usando el marco de trabajo Scrum, consistente en un proceso que se aplica de
-manera regular y frecuente a las buenas prácticas para trabajar colaborativamente en equipo y obtener el mejor resultado posible de un proyecto.
-
-### Roles metodología Scrum y funciones 👨‍💻
-
-| Rol                 | Función del rol                                                                                         |
-| ------------------- | ------------------------------------------------------------------------------------------------------- |
-| Desarrollador       | Generar las fuentes para el frontend y backend                                                          |
-| Analista            | Levantar las necesidades del negocio para convertirlas en requerimientos del sistema.                   |
-| Product Owner       | Conocer el producto software que se va a elaborar en el proyecto.                                       |
-| Administrador de BD | Gestionar y disponer el motor de base de datos para el proyecto de desarrollo de software.              |
-| Scrum Master        | Gestionar todas las actividades y ceremonias de la metodología Scrum y asignar los recursos a cada rol. |
 
 ## Construido con 🛠️
 
