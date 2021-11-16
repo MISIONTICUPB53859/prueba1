@@ -58,6 +58,10 @@ Scrum Team
 
 <!-- ## Licencia 📄
 
+Equipo 9 
+
+**Julian Blandon Guzman** 
+
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles -->
 
 ## Expresiones de Gratitud 🎁
