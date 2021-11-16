@@ -1,10 +1,10 @@
 # Aplicación Software de Ventas Empresa de Manufactura 🏬📈
 
-Análisis, diseño y construcción de una aplicación de software, que permite controlar las ventas físicas y virtuales de una empresa de manufactura y a las cuales se les realiza el correspondiente seguimiento.
+El software para empresas de producción y manufactura le otorga un manejo integrado y organizado de su inventario y producción, optimizando tiempo, minimizando errores y perdidas.
 
 ## Cómo se desarrolla el proyecto? 🚀
 
-El desarrollo de la aplicación web tiene como base un proyecto dividido en cinco (5) sprints y es construido en equipo de cinco (5) integrantes.
+El desarrollo de la aplicación será dividido en 4 sprints de 1 mes, el cual será desarrollado por un scrum team integrado por 8 personas.  
 
 ### Metodología empleada en el proyecto 📋
 
@@ -28,7 +28,7 @@ Herramientas empleadas para desarrollar el proyecto:
 - IDE: Visual Studio Code para desarrollar frameworks como ReactJs y NodeJs.
 - Git
 - GitHub (repositorio)
-- Trello (Administrador de proyecto)
+- Microsoft Azure (Administrador de aplicaciones)
 - Heroku
 - Stack tecnológico
 
