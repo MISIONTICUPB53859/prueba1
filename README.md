@@ -49,7 +49,7 @@ Stack tecnológico a emplear:
 ## Autores ✒️
 
 Scrum Team
-
+      ADOLFO SABALZA SOLANO  
 - **Paola Ríos Ramírez** - _Desarrollador_ - [paolaandrearios](https://github.com/paolaandrearios)
 - **Oscar Osvaldo Lancheros Romero** - _Analista_ - [olancheros](https://github.com/olancheros)
 - **Manuel Amado González** - _Product Owner_ - [manu84-bit](https://github.com/Manu84-bit)
