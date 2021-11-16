@@ -70,3 +70,5 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 ---
 
 ⌨️ con ❤️ por Skynet 😊
+
+MISION TIC 2022 UPB Luz Angela Gómez luzagom.19@gmail.com
