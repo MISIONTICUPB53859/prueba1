@@ -55,6 +55,7 @@ Scrum Team
 - **Manuel Amado González** - _Product Owner_ - [manu84-bit](https://github.com/Manu84-bit)
 - **Andrés Felipe Rodríguez Hernández** - _Administrador de BD_ - [anddev-rh](https://github.com/anddev-rh)
 - **Jessica Jimenez Soto** - _Scrum master_ - []() [JessicaJSI](https://github.com/JessicaJSI)
+- **José Alejandro Bedoya Villada** - _Student_ - [.]() .[joabedoyavi]
 
 <!-- ## Licencia 📄
 
@@ -66,6 +67,7 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 - Una 🍺 a todo el equipo Skynet por su buen desempeño.
 - Gracias a todos los desarrolladores que hicieron posible este proyecto 🤓.
 - Y a aquellos que no son mencionados, pero que nos estan acompañando.
+- Es un proceso de aprendizaje en formato piloto, con el objetivo principal de incorporar diferentes interesados en el desarollo de tecnologias TIC, de diferentes areas del conocimineto, y asi poder lograr una profunda integracion de saberes.
 
 ---
 
