@@ -1,10 +1,28 @@
-# Aplicación Software de Ventas Empresa de Manufactura 🏬📈
+# Sprints: Desarrollo Aplicaciones Web. 🏬📈
 
-Análisis, diseño y construcción de una aplicación de software, que permite controlar las ventas físicas y virtuales de una empresa de manufactura y a las cuales se les realiza el correspondiente seguimiento.
+# Recomendaciones
 
-## Cómo se desarrolla el proyecto? 🚀
+1.Accedan a https://www.figma.com/
+2.Realicen el registro individual de sus perfiles.
+3.Definan un área de trabajo en común (plantilla desktop) y compartan el enlace de edición colaborativo.
+4.Construyan un wireframe con las vistas de su proyecto.
+5.Publiquen en el espacio de Actividades/Tareas el enlace de acceso público al wireframe diseñado (solo una persona por equipo). No olviden activar los permisos de visualización.
 
-El desarrollo de la aplicación web tiene como base un proyecto dividido en cinco (5) sprints y es construido en equipo de cinco (5) integrantes.
+## Generalidades 🚀
+
+•Recuerda reunirte con tu equipo de trabajo para determinar los acuerdos en la ejecución de las actividades.
+•Los sprints son una fracción dentro de un proyecto, con tu equipo analiza como darle un valor agregado a lo que vas implementando.
+•Este sprint hace parte de las primeras fases en el ciclo de vida de software, donde se implementan prototipos (wireframe o mockup) para analizar de manera inicial los requisitos de un proyecto.
+
+### Introducción/Información:
+A través de la Resolución 1552 del 14 de mayo de 2013, elMinisterio de Salud y Protección Social, reglamentó que las Entidades Promotoras de Salud (EPS), de ambos regímenes, directamente o a través de la red de prestadores que definan, deberán tener siempre agendas abiertas para la asignación de citas de medicina especializada la totalidad de días hábiles del año.
+Dichas entidades en el momento en que reciban la solicitud, informarán al usuario la fecha para la cual se asigna la cita, sin que les sea permitido negarse a recibir la solicitud y a fijar la fecha de la consulta requerida.
+Las medidas hacen parte de la reglamentación de los artículos 123 y 124 delDecreto Ley 019 de 2012conocido como Decreto Antitrámites.
+
+## Objetivos:
+•Diseñar una solución a través de wireframesque permita conocer la definición de mínimo 3 vistas (2 requeridas + una adicional) en el proyecto web.
+•Utilizar una herramienta de diseño de wireframespara presentar un prototipo de la navegación dentro del proyecto web.
+•Utilizar el prototipo para analizar y modelar el sistema de bases de datos según la información que se desea manejar.
 
 ### Metodología empleada en el proyecto 📋
 
@@ -25,36 +43,16 @@ manera regular y frecuente a las buenas prácticas para trabajar colaborativamen
 
 Herramientas empleadas para desarrollar el proyecto:
 
-- IDE: Visual Studio Code para desarrollar frameworks como ReactJs y NodeJs.
-- Git
-- GitHub (repositorio)
+- Figma.
 - Trello (Administrador de proyecto)
-- Heroku
-- Stack tecnológico
-
-Stack tecnológico a emplear:
-
-- React JS
-- Html 5
-- CSS3
-- Lenguaje JavaScript
-- Lenguaje TypeScript
-- Node Js
-- Plataformas de desarrollo para Backend (Node JS)
-- Stack MERN
-- (OAuth2)
-- (Heroku)
-- (Git / GitHub)
 
 ## Autores ✒️
 
 Scrum Team
 
-- **Paola Ríos Ramírez** - _Desarrollador_ - [paolaandrearios](https://github.com/paolaandrearios)
-- **Oscar Osvaldo Lancheros Romero** - _Analista_ - [olancheros](https://github.com/olancheros)
-- **Manuel Amado González** - _Product Owner_ - [manu84-bit](https://github.com/Manu84-bit)
-- **Andrés Felipe Rodríguez Hernández** - _Administrador de BD_ - [anddev-rh](https://github.com/anddev-rh)
-- **Jessica Jimenez Soto** - _Scrum master_ - []() [JessicaJSI](https://github.com/JessicaJSI)
+- **Berrio Gallego, Jhon Steevens** - _Desarrollador_ -
+- **Munoz Trejos, Juan Carlos** - _Desarrollador_ -
+- **Bayer Lamprea, Johan Steven** - _Scrum master_ -
 
 <!-- ## Licencia 📄
 
@@ -62,11 +60,9 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-- Misión TIC 2022 Universidad de Antioquia 📢
-- Una 🍺 a todo el equipo Skynet por su buen desempeño.
+- Misión TIC 2022 UPB 📢
 - Gracias a todos los desarrolladores que hicieron posible este proyecto 🤓.
 - Y a aquellos que no son mencionados, pero que nos estan acompañando.
 
 ---
 
-⌨️ con ❤️ por Skynet 😊
