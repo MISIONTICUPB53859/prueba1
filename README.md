@@ -56,6 +56,8 @@ Scrum Team
 - **Andrés Felipe Rodríguez Hernández** - _Administrador de BD_ - [anddev-rh](https://github.com/anddev-rh)
 - **Jessica Jimenez Soto** - _Scrum master_ - []() [JessicaJSI](https://github.com/JessicaJSI)
 
+-**Harrison Malagon** -_Tester_- []() [HarrisonM](https://github.com/HarrisonMalagon)
+
 <!-- ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles -->
